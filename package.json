@@ -35,6 +35,9 @@
     "node >= v0.6.0"
   ],
   "main": "./node",
+  "files": [
+    "build"
+  ],
   "browserify": {
     "transform": [
       "coffeeify"
