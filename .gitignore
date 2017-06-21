@@ -7,6 +7,6 @@ Icon?
 ehthumbs.db
 Thumbs.db
 node_modules
-/build/
 *.js
+!build/*.js
 !src/devices/resampler.js
